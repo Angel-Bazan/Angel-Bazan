@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-<h3 align="left">I am a Software Engineer in Training based in Orange County, CA.</h3>
+<h3 align="left">I am a Software Engineer in training based in Orange County, CA.</h3>
+
+📧: You can reach me at angelsanchez.as524@gmail.com 
+
 
 
 
